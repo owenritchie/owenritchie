@@ -4,7 +4,7 @@ I'm an engineer based in Ottawa, ON.
 
 Currently working @ [Kinaxis](https://www.kinaxis.com/en/solutions/supply-chain-orchestration).
 
-Check out my portfolio [here](https://owenritchie.ca).
+Check out my portfolio [here](https://owenritchie.ca?utm_source=github_profile).
 
 My usual stack:
 
