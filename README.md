@@ -9,7 +9,6 @@ Check out my portfolio [here](https://owenritchie.ca?utm_source=github_profile).
 My usual stack:
 
 <p>
-<a href="https://www.getdbt.com" title="dbt"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" alt="dbt" height="40"></a>
 <a href="https://cloud.google.com" title="Google Cloud"><img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" height="40"></a>
 <a href="https://www.snowflake.com" title="Snowflake"><img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" height="40"></a>
 <a href="https://www.python.org" title="Python"><img src="https://cdn.simpleicons.org/python" alt="Python" height="40"></a>
